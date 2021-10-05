@@ -1,10 +1,10 @@
 // Two Sum
 // https://leetcode.com/problems/two-sum/
 
-package main
+package leetcode
 
 // O(N^2)
-func twoSum(nums []int, target int) []int {
+func TwoSum(nums []int, target int) []int {
 	var indexes []int
 
 	for i := 0; i<len(nums); i++ {
