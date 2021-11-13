@@ -1,4 +1,4 @@
-package leetcode
+package problems
 
 /**
  * Definition for singly-linked list.

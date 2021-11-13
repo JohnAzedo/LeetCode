@@ -1,7 +1,7 @@
 // Two Sum
 // https://leetcode.com/problems/two-sum/
 
-package leetcode
+package problems
 
 // O(N^2)
 func TwoSum(nums []int, target int) []int {
