@@ -50,7 +50,7 @@ func (ll *LinkedListImpl) AddLast(value interface{}){
 }
 
 func (ll LinkedListImpl) Get(position int) {
-	
+
 }
 
 func (ll LinkedListImpl) getLastPtr() *Node {
